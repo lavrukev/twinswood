@@ -1,0 +1,41 @@
+* {
+	margin: 0;
+	padding: 0;
+	font-size: 16px;
+	font-family: Arial, Helvetica, sans-serif;
+}
+.main {
+	margin: 0 auto;
+	width: 1000px;
+	background-color: #dfc8b2;
+	padding: 15px;
+
+}
+.image, .image-second {
+	width: 37%;
+	float: right;
+	margin: 30px 15px 0px 15px;
+}
+.image-second {
+	float: left;
+}
+ul {
+	margin-left: 30px;
+	margin-top: 10px;
+}
+h1 {
+	margin-left: 15px;
+	font-size: 20px;
+}
+h3 {
+	padding-top: 30px;
+}
+aside {
+	display: block;
+	text-align: center;
+	margin: 20px;
+	font-weight: bold;
+}
+p {
+	margin: 10px;
+}
